@@ -9,6 +9,10 @@ A API of contacts
 ### general:
 `npm i express helmet dotenv @types/node @types/express`
 
+### prisma db:
+`npx prisma init`
+`npx prisma db push`
+
 ### Node_modules
 `npm i`
 
