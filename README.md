@@ -9,5 +9,8 @@ A API of contacts
 ### general:
 `npm i express helmet dotenv @types/node @types/express`
 
+### Node_modules
+`npm i`
+
 ### Run server:
 `npm run start`
